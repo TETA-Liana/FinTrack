@@ -5,9 +5,9 @@ const Home: React.FC = () => {
     <div className="bg-blue-950 text-white min-h-screen">
       {/* Navbar */}
       <header className="flex justify-between items-center p-6">
-        <h1 className="text-2xl font-bold">Zenpay</h1>
+        <h1 className="text-2xl font-bold">FinTrack</h1>
         <nav className="space-x-6">
-          <a href="#" className="hover:underline">About</a>
+          <a href="#about" className="hover:underline">About</a>
           <a href="#" className="hover:underline">Products</a>
           <a href="#" className="hover:underline">Resources</a>
           <a href="#" className="hover:underline">Support</a>
