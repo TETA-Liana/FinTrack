@@ -22,7 +22,7 @@ const Products: React.FC = () => {
         <div className="bg-gray-800 p-6 rounded-lg">
           <img src='/find3.jpg'></img>
           <h3 className='font-bold text-white'>Start transacting</h3>
-          <p className='text-white'>start making transactions easily usin FinTrack</p>
+          <p className='text-white'>start making transactions easily using FinTrack</p>
         </div>
       </section>
       </div>
